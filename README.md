@@ -98,3 +98,17 @@ python src/data/preprocess/create_sub_sequences.py
 python src/data/split_data.py
 ```
 ----------------------
+
+Cite this work:
+```
+@ARTICLE{9425001,
+  author={Nguyen-Thai, Binh and Le, Vuong and Morgan, Catherine and Badawi, Nadia and Tran, Truyen and Venkatesh, Svetha},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2021.3077957}
+}
+```
