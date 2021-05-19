@@ -1,8 +1,6 @@
 # A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos
 
-Pytorch implementation of the paper:
-
-<a href="https://nguyenthaibinh.github.io/papers/stam_jbhi.pdf" target="_blank">A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos</a>. *IEEE Journal of Biomedical and Health Informatics (JBHI), 2021*.
+This is the Pytorch implementation of the paper: <a href="https://nguyenthaibinh.github.io/papers/stam_jbhi.pdf" target="_blank">A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos</a>. *IEEE Journal of Biomedical and Health Informatics (JBHI), 2021*.
 
 Please cite our paper if you find the code, dataset, or the experimental setting useful for your research.
 ```
