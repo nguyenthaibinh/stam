@@ -1,8 +1,11 @@
 # A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos
 
 This repository contains the implementation of our paper:
+
 <a href="https://nguyenthaibinh.github.io/papers/stam_jbhi.pdf" target="_blank">A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos</a>
+
 *Binh Nguyen-Thai, Vuong Le, Catherine Morgan, Nadia Badawi, Truyen Tran and Svetha Venkatesh*
+
 IEEE Journal of Biomedical and Health Informatics (JBHI), 2021.
 
 <p align="center">
