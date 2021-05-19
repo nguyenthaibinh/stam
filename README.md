@@ -5,6 +5,20 @@ Pytorch implementation of the paper:
 <a href="https://nguyenthaibinh.github.io/papers/stam_jbhi.pdf" target="_blank">A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos</a>
 *IEEE Journal of Biomedical and Health Informatics (JBHI), 2021*.
 
+Please cite our paper if you find the code, dataset, or the experimental setting useful for your research.
+```
+@ARTICLE{9425001,
+  author={Nguyen-Thai, Binh and Le, Vuong and Morgan, Catherine and Badawi, Nadia and Tran, Truyen and Venkatesh, Svetha},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2021.3077957}
+}
+```
+
 ## Overview
 
 <p align="center">
@@ -102,17 +116,3 @@ python src/data/preprocess/create_sub_sequences.py
 python src/data/split_data.py
 ```
 ----------------------
-
-Cite this work:
-```
-@ARTICLE{9425001,
-  author={Nguyen-Thai, Binh and Le, Vuong and Morgan, Catherine and Badawi, Nadia and Tran, Truyen and Venkatesh, Svetha},
-  journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/JBHI.2021.3077957}
-}
-```
