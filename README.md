@@ -3,6 +3,8 @@
 This repository contains the implementation of:
 **A Spatio-temporal Attention-based Model for Infant Movement Assessment from Videos** (Binh Nguyen-Thai, Vuong Le, Catherine Morgan, Nadia Badawi, Truyen Tran and Svetha Venkatesh).
 
+This is the link to the pdf: <a href="https://nguyenthaibinh.github.io/papers/stam_jbhi.pdf" target="_blank">pdf link</a>
+
 <p align="center">
 <img src="high_level_architecture.png" width="90%">
 </p>
