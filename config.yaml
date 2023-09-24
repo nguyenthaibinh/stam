@@ -1,0 +1,2 @@
+# Set the path to your datasets here.
+data_root: "/path_to_your_data_set/example_data"

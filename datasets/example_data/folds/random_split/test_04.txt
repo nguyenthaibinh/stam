@@ -1,0 +1,7 @@
+infant_id,label
+infant_011,0
+infant_021,0
+infant_017,0
+infant_002,1
+infant_016,0
+infant_028,0

@@ -1,0 +1,12 @@
+mlflow==1.8.0
+torchvision==0.6.0
+pandas==1.0.4
+scikit_video==1.1.11
+opencv_python==4.2.0.34
+torch==1.6.0
+numpy==1.18.4
+moviepy==1.0.3
+nets==0.0.3
+PyYAML==5.3.1
+scikit_learn==0.23.2
+skvideo==0.1.1
