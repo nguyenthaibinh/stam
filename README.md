@@ -115,5 +115,8 @@ python src/data/preprocess/create_sub_sequences.py
 
 # Split datasets into folds
 python src/data/split_data.py
+
+# Train and evaluate the model
+python src/train.py
 ```
 ----------------------
